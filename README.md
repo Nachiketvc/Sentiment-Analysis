@@ -1,6 +1,74 @@
 **Sentiment Analysis Using NLP**
 
-Tech Used- Natural Language Processing
+## Table of Contents
+1. [Problem Statement](#Problem Statement)
+2. [Technologies Packages & Libraries Used](#technologies)
+3. [Approach](#Approach)
+4. [Results and Conclusion](#Results and Conclusion)
+5. [Future Scope](#Future Scope)
 
-This project performs sentiment analysis on a dataset of Flipkart product reviews. 
-The primary objective is to classify the sentiment of customer reviews as positive, negative, or neutral.
+
+---
+
+## Problem Statement 
+
+
+Perform sentiment analysis on Flipkart customer reviews to gain insights into user feedback and identify areas for improvement.
+
+---
+
+## Technologies
+Below is a breakdown of the core technologies used in this project:
+
+
+
+| Category     | Technology     |
+|--------------|----------------|
+| Programming Language       | Python |
+| Libraries     | NLTK (VADER), Pandas, Matplotlib, Seaborn |
+
+
+
+
+---
+
+
+## Approach
+
+## 1. Data Loading:
+
+Imported and loaded the Flipkart sentiment analysis dataset from Kaggle.
+
+## 2.Text Preprocessing:
+
+Cleaned text data by removing noise (e.g., URLs, numbers, special characters).
+
+Converted text to lowercase and applied stemming.
+
+## 3. Sentiment Analysis:
+
+Utilized VADER from NLTK to analyze sentiment scores for reviews.
+
+## 4. Sentiment Classification:
+
+Classified reviews into Positive, Negative, and Neutral categories based on compound scores.
+
+## 5. Data Visualization:
+
+Created visualizations such as word clouds, bar charts, and correlation heatmaps to interpret results.##
+
+---
+
+## Results and Conclusion
+
+- Real-time sentiment analysis for live feedback.
+
+- Multilingual support for global datasets.
+
+- Enhanced NLP techniques to handle sarcasm and complex language.
+
+- Integration with IoT for intuitive systems.
+
+By leveraging sentiment analysis, businesses can improve customer satisfaction, refine strategies, and adapt products to meet user expectations.
+ 
+---
