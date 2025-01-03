@@ -5,7 +5,7 @@
 2. [Technologies Packages & Libraries Used](#technologies-packages--libraries-used)
 3. [Approach](#approach)
 4. [Results and Conclusion](#results-and-conclusion)
-5. [Future Scope](#future-scope)
+
 
 ---
 
@@ -16,7 +16,7 @@ Perform sentiment analysis on Flipkart customer reviews to gain insights into us
 
 ---
 
-## Technologies
+## Technologies Packages $ Libraries Used
 Below is a breakdown of the core technologies used in this project:
 
 
