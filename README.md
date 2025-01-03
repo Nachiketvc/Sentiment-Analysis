@@ -1,12 +1,11 @@
 **Sentiment Analysis Using NLP**
 
 ## Table of Contents
-1. [Problem Statement](#Problem Statement)
-2. [Technologies Packages & Libraries Used](#technologies)
-3. [Approach](#Approach)
-4. [Results and Conclusion](#Results and Conclusion)
-5. [Future Scope](#Future Scope)
-
+1. [Problem Statement](#problem-statement)
+2. [Technologies Packages & Libraries Used](#technologies-packages--libraries-used)
+3. [Approach](#approach)
+4. [Results and Conclusion](#results-and-conclusion)
+5. [Future Scope](#future-scope)
 
 ---
 
