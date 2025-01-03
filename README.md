@@ -12,7 +12,7 @@
 ## Problem Statement 
 
 
-Perform sentiment analysis on Flipkart customer reviews to gain insights into user feedback and identify areas for improvement.
+- Perform sentiment analysis on Flipkart customer reviews to gain insights into user feedback and identify areas for improvement.
 
 ---
 
@@ -36,25 +36,25 @@ Below is a breakdown of the core technologies used in this project:
 
 ## 1. Data Loading:
 
-Imported and loaded the Flipkart sentiment analysis dataset from Kaggle.
+- Imported and loaded the Flipkart sentiment analysis dataset from Kaggle.
 
 ## 2.Text Preprocessing:
 
-Cleaned text data by removing noise (e.g., URLs, numbers, special characters).
+- Cleaned text data by removing noise (e.g., URLs, numbers, special characters).
 
-Converted text to lowercase and applied stemming.
+- Converted text to lowercase and applied stemming.
 
 ## 3. Sentiment Analysis:
 
-Utilized VADER from NLTK to analyze sentiment scores for reviews.
+- Utilized VADER from NLTK to analyze sentiment scores for reviews.
 
 ## 4. Sentiment Classification:
 
-Classified reviews into Positive, Negative, and Neutral categories based on compound scores.
+- Classified reviews into Positive, Negative, and Neutral categories based on compound scores.
 
 ## 5. Data Visualization:
 
-Created visualizations such as word clouds, bar charts, and correlation heatmaps to interpret results.##
+- Created visualizations such as word clouds, bar charts, and correlation heatmaps to interpret results.##
 
 ---
 
